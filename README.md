@@ -35,7 +35,7 @@ This path served as my first step into the world of cybersecurity, providing the
 
 **Date of Completion:** [Enter the completion date from your certificate]
 
-![Pre Security Certificate](images/pre-security-cert.png)
+![Pre Security Certificate](images/2.png)
 
 **Key Skills & Concepts Gained:**
 
@@ -52,7 +52,7 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 
 **Date of Completion:** [Enter the completion date from your certificate]
 
-![Intro to Cyber Certificate](images/intro-to-cyber-cert.png)
+![Intro to Cyber Certificate](images/3.png)
 
 **Key Skills & Tools Gained:**
 
