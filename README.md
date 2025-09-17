@@ -12,7 +12,7 @@ This path provided me with the knowledge and hands-on skills required to design,
 
 **Date of Completion:** [Enter the completion date from your certificate]
 
-![Security Engineer Certificate](images/security engineer.png)
+![Security Engineer Certificate](images/1.png)
 
 **Key Skills & Tools Demonstrated:**
 
