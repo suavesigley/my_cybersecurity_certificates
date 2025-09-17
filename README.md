@@ -10,7 +10,7 @@ This repository documents my comprehensive learning journey through key learning
 
 This path provided me with the knowledge and hands-on skills required to design, implement, and maintain secure systems.
 
-**Date of Completion:** [Enter the completion date from your certificate]
+**Date of Completion:** 2 July 2024
 
 ![Security Engineer Certificate](images/1.png)
 
@@ -33,7 +33,7 @@ This path provided me with the knowledge and hands-on skills required to design,
 
 This path served as my first step into the world of cybersecurity, providing the essential foundational knowledge needed for any role in the field.
 
-**Date of Completion:** [Enter the completion date from your certificate]
+**Date of Completion:** 8 September 2023
 
 ![Pre Security Certificate](images/2.png)
 
@@ -50,7 +50,7 @@ This path served as my first step into the world of cybersecurity, providing the
 
 This pathway offered a holistic view of the cybersecurity industry, covering both offensive and defensive security disciplines.
 
-**Date of Completion:** [Enter the completion date from your certificate]
+**Date of Completion:** 30 August 2023
 
 ![Intro to Cyber Certificate](images/3.png)
 
@@ -72,9 +72,9 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 
 Completing these three paths has provided me with a strong and versatile foundation in cybersecurity. I started with **Introduction to Cyber** and **Pre Security** to build my core knowledge, and then advanced to the more specialised **Security Engineer** path to gain hands-on skills in a key domain.
 
-My next step is to prepare for the **ISC2 Certified in Cybersecurity (CC)** certification, which will further validate my skills and help me secure my first role in the industry.
+My next step is to prepare for the **Google Cybersecurity Professional** certification, which will further validate my skills and help me secure my first role in the industry.
 
 ## 🔗 Links
 
-* **TryHackMe Profile:** [Link to your TryHackMe profile]
-* **LinkedIn:** [Link to your LinkedIn profile]
+* **TryHackMe Profile:** https://tryhackme.com/p/suavesigley
+* **LinkedIn:** www.linkedin.com/in/suavesigley
