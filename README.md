@@ -70,14 +70,17 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 #### **Forage**
 ![ANZ Cybersecurity](images/anz.jpg)
 * **ANZ Cybersecurity**: This program gave me hands-on experience with real-world cybersecurity tasks from ANZ, including threat analysis and incident handling.
+
 ![Deloitte Data Analytics](images/deloitte.jpg)
 * **Deloitte Data Analytics**: A virtual experience that focused on using data analytics for business insights and problem-solving, a valuable skill in cybersecurity.
+
 ![CommBank Cybersecurity](images/cwb.jpg)
 * **CommBank Cybersecurity**: This program simulated tasks a cybersecurity professional at Commonwealth Bank would perform, focusing on identifying vulnerabilities and protecting data.
 
 #### **Cisco Networking Academy**
 ![Exploring Networking with Cisco Packet Tracer](images/cpt1.png)
 * **Exploring Networking with Cisco Packet Tracer (Feb 2024)**: I gained practical experience in building and configuring networks using Cisco Packet Tracer.
+
 ![Getting Started with Cisco Packet Tracer](images/cpt2.png)
 * **Getting Started with Cisco Packet Tracer (Feb 2024)**: This course provided a solid introduction to the Packet Tracer tool, which is essential for network simulations.
 
