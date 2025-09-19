@@ -67,7 +67,27 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
     * **Cryptography:** Gained an understanding of core cryptographic concepts and basic hashing.
 
 ---
+#### **Forage**
+![ANZ Cybersecurity](images/anz.jpg)
+* **ANZ Cybersecurity**: This program gave me hands-on experience with real-world cybersecurity tasks from ANZ, including threat analysis and incident handling.
+![Deloitte Data Analytics](images/deloitte.jpg)
+* **Deloitte Data Analytics**: A virtual experience that focused on using data analytics for business insights and problem-solving, a valuable skill in cybersecurity.
+![CommBank Cybersecurity](images/cwb.jpg)
+* **CommBank Cybersecurity**: This program simulated tasks a cybersecurity professional at Commonwealth Bank would perform, focusing on identifying vulnerabilities and protecting data.
 
+#### **Cisco Networking Academy**
+![Exploring Networking with Cisco Packet Tracer](images/cpt1.png)
+* **Exploring Networking with Cisco Packet Tracer (Feb 2024)**: I gained practical experience in building and configuring networks using Cisco Packet Tracer.
+![Getting Started with Cisco Packet Tracer](images/cpt2.png)
+* **Getting Started with Cisco Packet Tracer (Feb 2024)**: This course provided a solid introduction to the Packet Tracer tool, which is essential for network simulations.
+
+#### **LinkedIn Learning**
+![Professional Networking](images/linkedin1.jpg)
+* **Professional Networking**: This certificate highlights my understanding of how to build and maintain professional relationships, which is key in the tech industry.
+
+#### **Formal Qualifications**
+
+* **Certificate III in Security Operations**: A formal qualification that covers foundational security principles, risk management, and surveillance, providing a broad understanding of the security industry.
 ## 🚀 My Learning Journey
 
 Completing these three paths has provided me with a strong and versatile foundation in cybersecurity. I started with **Introduction to Cyber** and **Pre Security** to build my core knowledge, and then advanced to the more specialised **Security Engineer** path to gain hands-on skills in a key domain.
