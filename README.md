@@ -68,7 +68,7 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 
 ---
 #### **Forage**
-![ANZ Cybersecurity](images/anz.pdf)
+![ANZ Cybersecurity](images/anz.png)
 * **ANZ Cybersecurity**: This program gave me hands-on experience with real-world cybersecurity tasks from ANZ, including threat analysis and incident handling.
 ![Deloitte Data Analytics](images/deloitte.pdf)
 * **Deloitte Data Analytics**: A virtual experience that focused on using data analytics for business insights and problem-solving, a valuable skill in cybersecurity.
