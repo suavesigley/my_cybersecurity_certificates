@@ -20,13 +20,13 @@ Validated foundational knowledge across five domains:
 This certification complements my hands-on homelab work and TryHackMe paths by reinforcing core cybersecurity principles and operational readiness.
 **Date Earned:** 23 September 2025 
 
+## TryHackMe Certificates
 ### 1. Security Engineer Path
 
 This path provided me with the knowledge and hands-on skills required to design, implement, and maintain secure systems.
 
 **Date of Completion:** 2 July 2024
 
-## TryHackMe Certificates
 ![Security Engineer Certificate](images/1.png)
 
 **Key Skills & Tools Demonstrated:**
