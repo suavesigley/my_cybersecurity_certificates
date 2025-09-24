@@ -1,10 +1,24 @@
 # My Hands-On Cybersecurity Portfolio
 
-This repository documents my comprehensive learning journey through key learning paths on the **TryHackMe** platform. It serves as a practical portfolio of my foundational skills, demonstrating a clear progression from core concepts to specialised areas like security engineering.
+This repository documents my comprehensive learning journey through key learning paths on the TryHackMe, ISC2 and The Forage platform. It serves as a practical portfolio of my foundational skills, demonstrating a clear progression from core concepts to specialised areas like security engineering.
 
 ---
 
 ## 📜 Certificates of Completion
+
+## 🛡️ ISC2 Certified in Cybersecurity (CC)
+ 
+**Credential:** [Certified in Cybersecurity (CC)](images/cc.png)  
+
+Validated foundational knowledge across five domains:
+- Security Principles  
+- Incident Response, Business Continuity & Disaster Recovery  
+- Access Control Concepts  
+- Network Security  
+- Security Operations  
+
+This certification complements my hands-on homelab work and TryHackMe paths by reinforcing core cybersecurity principles and operational readiness.
+**Date Earned:** 23 September 2025 
 
 ### 1. Security Engineer Path
 
@@ -12,6 +26,7 @@ This path provided me with the knowledge and hands-on skills required to design,
 
 **Date of Completion:** 2 July 2024
 
+## TryHackMe Certificates
 ![Security Engineer Certificate](images/1.png)
 
 **Key Skills & Tools Demonstrated:**
