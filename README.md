@@ -1,10 +1,24 @@
 # My Hands-On Cybersecurity Portfolio
 
-This repository documents my comprehensive learning journey through key learning paths on the **TryHackMe** platform. It serves as a practical portfolio of my foundational skills, demonstrating a clear progression from core concepts to specialised areas like security engineering.
+This repository documents my comprehensive learning journey through key learning paths on the TryHackMe, ISC2 and The Forage platform. It serves as a practical portfolio of my foundational skills, demonstrating a clear progression from core concepts to specialised areas like security engineering.
 
 ---
 
 ## 📜 Certificates of Completion
+
+## 🛡️ ISC2 Certified in Cybersecurity (CC)
+ 
+**Credential:** [Certified in Cybersecurity (CC)](images/cc.png)  
+
+Validated foundational knowledge across five domains:
+- Security Principles  
+- Incident Response, Business Continuity & Disaster Recovery  
+- Access Control Concepts  
+- Network Security  
+- Security Operations  
+
+This certification complements my hands-on homelab work and TryHackMe paths by reinforcing core cybersecurity principles and operational readiness.
+**Date Earned:** 23 September 2025 
 
 ### 1. Security Engineer Path
 
@@ -12,6 +26,7 @@ This path provided me with the knowledge and hands-on skills required to design,
 
 **Date of Completion:** 2 July 2024
 
+## TryHackMe Certificates
 ![Security Engineer Certificate](images/1.png)
 
 **Key Skills & Tools Demonstrated:**
@@ -70,14 +85,17 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 #### **Forage**
 ![ANZ Cybersecurity](images/anz.jpg)
 * **ANZ Cybersecurity**: This program gave me hands-on experience with real-world cybersecurity tasks from ANZ, including threat analysis and incident handling.
+
 ![Deloitte Data Analytics](images/deloitte.jpg)
 * **Deloitte Data Analytics**: A virtual experience that focused on using data analytics for business insights and problem-solving, a valuable skill in cybersecurity.
+
 ![CommBank Cybersecurity](images/cwb.jpg)
 * **CommBank Cybersecurity**: This program simulated tasks a cybersecurity professional at Commonwealth Bank would perform, focusing on identifying vulnerabilities and protecting data.
 
 #### **Cisco Networking Academy**
 ![Exploring Networking with Cisco Packet Tracer](images/cpt1.png)
 * **Exploring Networking with Cisco Packet Tracer (Feb 2024)**: I gained practical experience in building and configuring networks using Cisco Packet Tracer.
+
 ![Getting Started with Cisco Packet Tracer](images/cpt2.png)
 * **Getting Started with Cisco Packet Tracer (Feb 2024)**: This course provided a solid introduction to the Packet Tracer tool, which is essential for network simulations.
 
