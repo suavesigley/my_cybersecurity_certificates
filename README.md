@@ -8,7 +8,7 @@ This repository documents my comprehensive learning journey through key learning
 
 ## 🛡️ ISC2 Certified in Cybersecurity (CC)
  
-**Credential:** [Certified in Cybersecurity (CC)](images/cc.png)  
+![Certified in Cybersecurity (CC)](images/cc.png)  
 
 Validated foundational knowledge across five domains:
 - Security Principles  
