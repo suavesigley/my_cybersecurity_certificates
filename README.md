@@ -92,7 +92,7 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 ![CommBank Cybersecurity](images/cwb.jpg)
 * **CommBank Cybersecurity**: This program simulated tasks a cybersecurity professional at Commonwealth Bank would perform, focusing on identifying vulnerabilities and protecting data.
 
-![Datacom Introduction to Cloud Job Simulation](images/datacom Introduction to Cloud Job Simulation.pdf)
+![Datacom Introduction to Cloud Job Simulation](images/datacom.pdf)
 * **Datacom Cloud**: Completed a simulation focussed on understanding the DevOps engineering role at Datacom
 ,Registered an application on the cloud for a hypothetical client, WCD Bank 
 Created a GitHub Action workflow.
