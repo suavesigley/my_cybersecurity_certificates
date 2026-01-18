@@ -92,6 +92,11 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 ![CommBank Cybersecurity](images/cwb.jpg)
 * **CommBank Cybersecurity**: This program simulated tasks a cybersecurity professional at Commonwealth Bank would perform, focusing on identifying vulnerabilities and protecting data.
 
+![Datacom Introduction to Cloud Job Simulation](images/datacom Introduction to Cloud Job Simulation.pdf)
+* **Datacom Cloud**: Completed a simulation focussed on understanding the DevOps engineering role at Datacom
+,Registered an application on the cloud for a hypothetical client, WCD Bank 
+Created a GitHub Action workflow.
+  
 #### **Cisco Networking Academy**
 ![Exploring Networking with Cisco Packet Tracer](images/cpt1.png)
 * **Exploring Networking with Cisco Packet Tracer (Feb 2024)**: I gained practical experience in building and configuring networks using Cisco Packet Tracer.
