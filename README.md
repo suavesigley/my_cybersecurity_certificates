@@ -96,6 +96,12 @@ This pathway offered a holistic view of the cybersecurity industry, covering bot
 * **Datacom Cloud**: Completed a simulation focussed on understanding the DevOps engineering role at Datacom
 ,Registered an application on the cloud for a hypothetical client, WCD Bank 
 Created a GitHub Action workflow.
+
+![Commonwealth Bank Introduction to Data Science Simulation](images/cwb2.png)
+* **Commonwealth Bank Data Science**: Completed a job simulation involving Data Management skills for Commonwealth Bank's Data Science team.
+Demonstrated proficiency in creating data engineering pipelines to aggregate and extract valuable insights from datasets, optimizing data-driven decision-making.
+Acquired skills in anonymizing personal data within datasets, ensuring compliance with data privacy regulations.
+Proposed effective data analysis approaches, particularly related to social media, and demonstrated the ability to design well-structured databases for efficient information management.
   
 #### **Cisco Networking Academy**
 ![Exploring Networking with Cisco Packet Tracer](images/cpt1.png)
